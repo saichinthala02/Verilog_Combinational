@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/Combinational/Full_Adder
+vfull_adder
+Z1 !s110 1759429669
+!i10b 1
+!s100 e=6Pc[<KB_<azJ0m<h6f>0
+IAH8UPTUllJzC`mMYh<YUn1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759429648
+8full_adder_structural.v
+Ffull_adder_structural.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1759429669.000000
+Z5 !s107 full_adder_structural.v|tb_full_adder.v|
+Z6 !s90 -reportprogress|300|tb_full_adder.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 MbO6DBS0OBLng_S?Sg44P3
+I^HMSZ0<SC3GPV]RZ0IAi@0
+R2
+R0
+w1759429664
+8tb_full_adder.v
+Ftb_full_adder.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
