@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/Github
+vhalf_adder
+Z1 !s110 1759411617
+!i10b 1
+!s100 b59L5YFhd;Ke]<b^>MUSO3
+IeNG8mzhZ3<Ko9cL8n3nFJ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759411483
+8half_adder.v
+Fhalf_adder.v
+L0 28
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1759411617.000000
+Z5 !s107 half_adder.v|half_adder_tb.v|
+Z6 !s90 -reportprogress|300|half_adder_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 ;ignmGhVgWIS3zZ7LEIUZ3
+ID=XamJMPgz@Z_B`;kkhlz0
+R2
+R0
+w1759411603
+8half_adder_tb.v
+Fhalf_adder_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
