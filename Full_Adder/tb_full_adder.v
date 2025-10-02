@@ -1,4 +1,6 @@
 //--> Test-Bench for full-adder
+//`include "full_adder_dataflow.v"
+//`include "full_adder_behavioral.v"
 `include "full_adder_structural.v"
 module top;
 	reg a,b,ci;
@@ -51,3 +53,4 @@ endmodule
 # | 1 | 1 |  1  |  1  |    1   |
 # ------------------------------
 */
+
