@@ -1,0 +1,128 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:32:53 on Oct 03,2025
+# vlog -reportprogress 300 tb_full_sub.v 
+# -- Compiling module full_sub
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:32:53 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:32:53 on Oct 03,2025
+# Loading work.top
+# Loading work.full_sub
+# -------------------------------
+# ------> Full Subtrcator <------
+# -------------------------------
+# | a | b | Cin | Diff | Borrow |
+# -------------------------------
+# | 0 | 0 |  0  |  0  |    0   |
+# | 0 | 0 |  1  |  1  |    1   |
+# | 0 | 1 |  0  |  1  |    1   |
+# | 0 | 1 |  1  |  0  |    1   |
+# | 1 | 0 |  0  |  1  |    0   |
+# | 1 | 0 |  1  |  0  |    0   |
+# | 1 | 1 |  0  |  0  |    0   |
+# | 1 | 1 |  1  |  1  |    1   |
+# -------------------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:33:56 on Oct 03,2025
+# vlog -reportprogress 300 tb_full_sub.v 
+# -- Compiling module full_sub
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:33:56 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:33:59 on Oct 03,2025, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:33:59 on Oct 03,2025
+# Loading work.top
+# Loading work.full_sub
+# -------------------------------
+# ------> Full Subtrcator <------
+# -------------------------------
+# | a | b | Cin | Diff | Borrow |
+# -------------------------------
+# | 0 | 0 |  0  |   0  |    0   |
+# | 0 | 0 |  1  |   1  |    1   |
+# | 0 | 1 |  0  |   1  |    1   |
+# | 0 | 1 |  1  |   0  |    1   |
+# | 1 | 0 |  0  |   1  |    0   |
+# | 1 | 0 |  1  |   0  |    0   |
+# | 1 | 1 |  0  |   0  |    0   |
+# | 1 | 1 |  1  |   1  |    1   |
+# -------------------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:35:04 on Oct 03,2025
+# vlog -reportprogress 300 tb_full_sub.v 
+# -- Compiling module full_sub
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:35:04 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:35:05 on Oct 03,2025, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:35:05 on Oct 03,2025
+# Loading work.top
+# Loading work.full_sub
+# -------------------------------
+# ------> Full Subtrcator <------
+# -------------------------------
+# | a | b | Cin | Diff | Borrow |
+# -------------------------------
+# | 0 | 0 |  0  |   0  |    0   |
+# | 0 | 0 |  1  |   1  |    1   |
+# | 0 | 1 |  0  |   1  |    1   |
+# | 0 | 1 |  1  |   0  |    1   |
+# | 1 | 0 |  0  |   1  |    0   |
+# | 1 | 0 |  1  |   0  |    0   |
+# | 1 | 1 |  0  |   0  |    0   |
+# | 1 | 1 |  1  |   1  |    1   |
+# -------------------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:35:28 on Oct 03,2025
+# vlog -reportprogress 300 tb_full_sub.v 
+# -- Compiling module full_sub
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:35:28 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:35:28 on Oct 03,2025, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:35:28 on Oct 03,2025
+# Loading work.top
+# Loading work.full_sub
+# -------------------------------
+# ------> Full Subtrcator <------
+# -------------------------------
+# | a | b | Cin | Diff | Borrow |
+# -------------------------------
+# | 0 | 0 |  0  |   0  |    0   |
+# | 0 | 0 |  1  |   1  |    1   |
+# | 0 | 1 |  0  |   1  |    1   |
+# | 0 | 1 |  1  |   0  |    1   |
+# | 1 | 0 |  0  |   1  |    0   |
+# | 1 | 0 |  1  |   0  |    0   |
+# | 1 | 1 |  0  |   0  |    0   |
+# | 1 | 1 |  1  |   1  |    1   |
+# -------------------------------
+# End time: 10:36:12 on Oct 03,2025, Elapsed time: 0:00:44
+# Errors: 0, Warnings: 0

@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/Combinational/Full_Subtractor
+vfull_sub
+Z1 !s110 1759467928
+!i10b 1
+!s100 RANYe[:QCRFAi:OR21^`H2
+IZQALklbohz^1i5^JcdXA82
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759467263
+8full_sub_dataflow.v
+Ffull_sub_dataflow.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1759467928.000000
+Z5 !s107 full_sub_dataflow.v|tb_full_sub.v|
+Z6 !s90 -reportprogress|300|tb_full_sub.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 K0gRMgEz__lB9ea:^m[Fb0
+Il8WROXO2Q=TzB_g5M1el`0
+R2
+R0
+w1759467926
+8tb_full_sub.v
+Ftb_full_sub.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
