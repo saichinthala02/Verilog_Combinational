@@ -1,0 +1,126 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:07:52 on Oct 03,2025
+# vlog -reportprogress 300 tb_half_subtractor.v 
+# ** Error: tb_half_subtractor.v(1): Cannot open `include file "half_subtractor_dataflow.v".
+# -- Compiling module top
+# End time: 10:07:52 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb_half_subtractor.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:08:52 on Oct 03,2025
+# vlog -reportprogress 300 tb_half_subtractor.v 
+# -- Compiling module half_sub
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:08:52 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:08:52 on Oct 03,2025
+# Loading work.top
+# Loading work.half_sub
+# ------------------------
+# --> Half Subtractor <---
+# ------------------------
+# | a | b | Diff | Borrow |
+# ------------------------
+# | 0 | 0 |  0  |    0   |
+# | 0 | 1 |  1  |    1   |
+# | 1 | 0 |  1  |    0   |
+# | 1 | 1 |  0  |    0   |
+# ------------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:09:44 on Oct 03,2025
+# vlog -reportprogress 300 tb_half_subtractor.v 
+# -- Compiling module half_sub
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:09:44 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:09:47 on Oct 03,2025, Elapsed time: 0:00:55
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:09:47 on Oct 03,2025
+# Loading work.top
+# Loading work.half_sub
+# -------------------------
+# ---> Half Subtractor <---
+# -------------------------
+# | a | b | Diff | Borrow |
+# -------------------------
+# | 0 | 0 |   0  |    0   |
+# | 0 | 1 |   1  |    1   |
+# | 1 | 0 |   1  |    0   |
+# | 1 | 1 |   0  |    0   |
+# -------------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:15:03 on Oct 03,2025
+# vlog -reportprogress 300 tb_half_subtractor.v 
+# -- Compiling module half_sub
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:15:03 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:15:04 on Oct 03,2025, Elapsed time: 0:05:17
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:15:04 on Oct 03,2025
+# Loading work.top
+# Loading work.half_sub
+# -------------------------
+# ---> Half Subtractor <---
+# -------------------------
+# | a | b | Diff | Borrow |
+# -------------------------
+# | 0 | 0 |   0  |    0   |
+# | 0 | 1 |   1  |    1   |
+# | 1 | 0 |   1  |    0   |
+# | 1 | 1 |   0  |    0   |
+# -------------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:16:52 on Oct 03,2025
+# vlog -reportprogress 300 tb_half_subtractor.v 
+# -- Compiling module half_sub
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:16:52 on Oct 03,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:16:53 on Oct 03,2025, Elapsed time: 0:01:49
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:16:53 on Oct 03,2025
+# Loading work.top
+# Loading work.half_sub
+# -------------------------
+# ---> Half Subtractor <---
+# -------------------------
+# | a | b | Diff | Borrow |
+# -------------------------
+# | 0 | 0 |   0  |    0   |
+# | 0 | 1 |   1  |    1   |
+# | 1 | 0 |   1  |    0   |
+# | 1 | 1 |   0  |    0   |
+# -------------------------
+# End time: 10:17:03 on Oct 03,2025, Elapsed time: 0:00:10
+# Errors: 0, Warnings: 0
