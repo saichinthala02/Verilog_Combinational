@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/vlsi_vrilog/Sai_Practice/Ripple_Carry_Adder
+vfull_adder
+Z1 !s110 1759560873
+!i10b 1
+!s100 7F4`jeMDK<e82=fRK1Xkh1
+IG=k:nL_=21cPSNhJaT?Zn2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1759560681
+Z4 8design.v
+Z5 Fdesign.v
+L0 11
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1759560873.000000
+Z8 !s107 design.v|tb.v|
+Z9 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vhalf_adder
+R1
+!i10b 1
+!s100 ZoJA3>X3O9kc=bemT?_=R1
+I6>W:hDG1^=>D;l91^KEGa0
+R2
+R0
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vtest
+R1
+!i10b 1
+!s100 K>dK=72KNTN6ohN5NhFT?2
+I:iVG=?583VnLc]L^>i1Kh2
+R2
+R0
+w1759560761
+8tb.v
+Ftb.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vtop_4bit
+R1
+!i10b 1
+!s100 S6_b8YZXJh[>[3VoUbo=W1
+IeO=QmnjPNM]1TV4e^CFn@1
+R2
+R0
+R3
+R4
+R5
+L0 23
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
