@@ -1,0 +1,33 @@
+//--> Implementation of MSB Priority Encoder
+/*
+module priority_encoder(i,y);
+	input [3:0]i;
+	output reg [1:0]y;
+
+	always@(*)begin
+		casex(i)
+			4'b0001 : y=2'b00;
+			4'b001x : y=2'b01;
+			4'b01xx : y=2'b10;
+			4'b1xxx : y=2'b11;
+		endcase
+	end
+endmodule
+*/
+
+//--> Implementation of LSB Priority Encoder
+
+module priority_encoder(i,y);
+	input [3:0]i;
+	output reg [1:0]y;
+
+	always@(*)begin
+		casex(i)
+			4'bxxx1 : y=2'b00;
+			4'bxx10 : y=2'b01;
+			4'bx100 : y=2'b10;
+			4'b1000 : y=2'b11;
+		endcase
+	end
+endmodule
+

@@ -1,0 +1,261 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:57:41 on Sep 11,2025
+# vlog -reportprogress 300 encoder_tb.v 
+# -- Compiling module encoder42
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 09:57:41 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 09:57:41 on Sep 11,2025
+# Loading work.top
+# Loading work.encoder42
+#  i      y
+# 0100  10
+# 0001  00
+# 1001  xx
+# 0011  xx
+# 1101  xx
+# 1101  xx
+# 0101  xx
+# 0010  01
+# 0001  00
+# 1101  xx
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:59:23 on Sep 11,2025
+# vlog -reportprogress 300 encoder_tb.v 
+# -- Compiling module encoder42
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 09:59:23 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 09:59:23 on Sep 11,2025, Elapsed time: 0:01:42
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 09:59:23 on Sep 11,2025
+# Loading work.top
+# Loading work.encoder42
+#  i     y
+# 0100  10
+# 0001  00
+# 1001  xx
+# 0011  xx
+# 1101  xx
+# 1101  xx
+# 0101  xx
+# 0010  01
+# 0001  00
+# 1101  xx
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:11:16 on Sep 11,2025
+# vlog -reportprogress 300 decoder_tb.v 
+# -- Compiling module decoder24
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:11:16 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:11:18 on Sep 11,2025, Elapsed time: 0:11:55
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:11:18 on Sep 11,2025
+# Loading work.top
+# Loading work.decoder24
+#  i     y
+# 00  0001
+# 01  0010
+# 01  0010
+# 11  1000
+# 01  0010
+# 01  0010
+# 01  0010
+# 10  0100
+# 01  0010
+# 01  0010
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:11:51 on Sep 11,2025
+# vlog -reportprogress 300 decoder_tb.v 
+# -- Compiling module decoder24
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:11:51 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:11:52 on Sep 11,2025, Elapsed time: 0:00:34
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:11:52 on Sep 11,2025
+# Loading work.top
+# Loading work.decoder24
+#  i    y
+# 00  0001
+# 01  0010
+# 01  0010
+# 11  1000
+# 01  0010
+# 01  0010
+# 01  0010
+# 10  0100
+# 01  0010
+# 01  0010
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:33:05 on Sep 11,2025
+# vlog -reportprogress 300 decoder_tb.v 
+# -- Compiling module decoder24
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:33:05 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:33:05 on Sep 11,2025, Elapsed time: 0:21:13
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:33:06 on Sep 11,2025
+# Loading work.top
+# Loading work.decoder24
+#  i    y
+# 00  0001
+# 01  0010
+# 01  0010
+# 11  1000
+# 01  0010
+# 01  0010
+# 01  0010
+# 10  0100
+# 01  0010
+# 01  0010
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:33:59 on Sep 11,2025
+# vlog -reportprogress 300 encoder_tb.v 
+# -- Compiling module priority_encoder
+# -- Compiling module top
+# 
+# Top level modules:
+# 	priority_encoder
+# 	top
+# End time: 10:33:59 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:33:59 on Sep 11,2025, Elapsed time: 0:00:53
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:33:59 on Sep 11,2025
+# Loading work.top
+# Loading work.encoder42
+#  i     y
+# 0100  10
+# 0001  00
+# 1001  xx
+# 0011  xx
+# 1101  xx
+# 1101  xx
+# 0101  xx
+# 0010  01
+# 0001  00
+# 1101  xx
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:35:34 on Sep 11,2025
+# vlog -reportprogress 300 encoder_tb.v 
+# -- Compiling module priority_encoder
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:35:34 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:35:35 on Sep 11,2025, Elapsed time: 0:01:36
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:35:35 on Sep 11,2025
+# Loading work.top
+# Loading work.priority_encoder
+#  i     y
+# 0100  xx
+# 0001  00
+# 1001  00
+# 0011  00
+# 1101  00
+# 1101  00
+# 0101  00
+# 0010  00
+# 0001  00
+# 1101  00
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:39:20 on Sep 11,2025
+# vlog -reportprogress 300 encoder_tb.v 
+# -- Compiling module priority_encoder
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:39:20 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:39:20 on Sep 11,2025, Elapsed time: 0:03:45
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:39:21 on Sep 11,2025
+# Loading work.top
+# Loading work.priority_encoder
+#  i     y
+# 0100  10
+# 0001  00
+# 1001  11
+# 0011  01
+# 1101  11
+# 1101  11
+# 0101  10
+# 0010  01
+# 0001  00
+# 1101  11
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:44:42 on Sep 11,2025
+# vlog -reportprogress 300 encoder_tb.v 
+# -- Compiling module priority_encoder
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 10:44:42 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:44:43 on Sep 11,2025, Elapsed time: 0:05:22
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 10:44:43 on Sep 11,2025
+# Loading work.top
+# Loading work.priority_encoder
+#  i     y
+# 0100  10
+# 0001  00
+# 1001  00
+# 0011  00
+# 1101  00
+# 1101  00
+# 0101  00
+# 0010  01
+# 0001  00
+# 1101  00

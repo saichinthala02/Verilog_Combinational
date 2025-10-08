@@ -1,0 +1,350 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/VERILOG_ASSIGNMENT/ASSIGNMENT1
+vadder
+Z1 !s110 1757417559
+!i10b 1
+!s100 Df<5YR1ME1K2::7<McUaZ3
+IGgTEdmD@P?NOX_`F`X76F0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1757243400
+Z4 8q2_8bit_fa.v
+Z5 Fq2_8bit_fa.v
+L0 3
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1757417559.000000
+Z8 !s107 q2_8bit_fa.v|q2_8bit_fa_tb.v|
+Z9 !s90 -reportprogress|300|q2_8bit_fa_tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vdecoder24
+!s110 1757566985
+!i10b 1
+!s100 hBLh<8fSGd<>fY19`gNP:0
+IzNP;dXQXR8Iig?44BRzi^3
+R2
+Z11 dC:/Users/saich/OneDrive/Desktop/VERILOG_ASSIGNMENT/ASSIGNMENT1/Question11
+w1757565601
+8decoder.v
+Fdecoder.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1757566985.000000
+!s107 decoder.v|decoder_tb.v|
+!s90 -reportprogress|300|decoder_tb.v|
+!i113 1
+R10
+vencoder42
+!s110 1757564963
+!i10b 1
+!s100 >SGKZ_aGnOL7NR]@Q4jYl3
+IzKjLN>clWd>G?i^mG:oSL2
+R2
+R11
+w1757564380
+8encoder.v
+Fencoder.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1757564963.000000
+!s107 encoder.v|encoder_tb.v|
+Z12 !s90 -reportprogress|300|encoder_tb.v|
+!i113 1
+R10
+vfa
+R1
+!i10b 1
+!s100 a@^VDODTW7>F8F7NREcA;1
+ISAjHI]S?cAkB4zH>C8YJC0
+R2
+R0
+R3
+R4
+R5
+L0 11
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vfs_3bit
+Z13 !s110 1757420433
+!i10b 1
+!s100 fe228B`LCaBS;VmcY?RfG2
+IeD9n6hDXzoP94zP`BXo6>3
+R2
+R0
+w1757418445
+8q15b_3bit_fs.v
+Fq15b_3bit_fs.v
+L0 3
+R6
+r1
+!s85 0
+31
+Z14 !s108 1757420433.000000
+Z15 !s107 q15_half_sub.v|q15a_fs_using_hs.v|q15b_3bit_fs.v|q15b_tb.v|
+Z16 !s90 -reportprogress|300|q15b_tb.v|
+!i113 1
+R10
+vfull_sub
+R13
+!i10b 1
+!s100 nWD^MW5I0<NmiU6koVV5f1
+INlO?5QDHZh26Vl4a^cgQl0
+R2
+R0
+w1757415858
+8q15a_fs_using_hs.v
+Fq15a_fs_using_hs.v
+L0 4
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+vgates
+!s110 1757353661
+!i10b 1
+!s100 ;JPYnk8]h4R2Ib0dzziEc2
+I[b?<IeXZXASID]iX@geK`3
+R2
+R0
+w1757353501
+Z17 8q13_gates_using_mux.v
+Z18 Fq13_gates_using_mux.v
+L0 8
+R6
+r1
+!s85 0
+31
+!s108 1757353661.000000
+Z19 !s107 q13_gates_using_mux.v|q13_tb.v|
+Z20 !s90 -reportprogress|300|q13_tb.v|
+!i113 1
+R10
+vha
+!s110 1757241385
+!i10b 1
+!s100 ]]_oILlo8enWKg_nGGi<n1
+IRW_ZKYiW9czIni6fT5G]b3
+R2
+R0
+w1757241377
+8q2_fa.v
+Fq2_fa.v
+L0 47
+R6
+r1
+!s85 0
+31
+!s108 1757241384.000000
+!s107 q2_fa.v|q2_fa_tb.v|
+!s90 -reportprogress|300|q2_fa_tb.v|
+!i113 1
+R10
+vha_8bit
+!s110 1757229356
+!i10b 1
+!s100 8l1fR0F_;9g8cS:dBJU]13
+IIfi]nI2zSGm_3YHoK36>D3
+R2
+R0
+w1757229179
+8q1_ha_8bit.v
+Fq1_ha_8bit.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1757229356.000000
+!s107 q1_ha_8bit.v|q1_ha_8bit_tb.v|
+!s90 -reportprogress|300|q1_ha_8bit_tb.v|
+!i113 1
+R10
+vhalf_sub
+R13
+!i10b 1
+!s100 :[l<B=L9`F_VFHT=zWdFi3
+IPn@3JYICJ@0>z<nejOF9P0
+R2
+R0
+w1757413614
+8q15_half_sub.v
+Fq15_half_sub.v
+L0 2
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+vmux
+!s110 1757355219
+!i10b 1
+!s100 e>Nk@?5Ac<1TDiT8m]m_e3
+I:9=:W1Bhn@iN79BOfkcef3
+R2
+R0
+w1757355109
+8q14_mux_4x1.v
+Fq14_mux_4x1.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1757355219.000000
+!s107 q14_mux_4x1.v|q14_tb.v|
+!s90 -reportprogress|300|q14_tb.v|
+!i113 1
+R10
+vmux_2x1
+!s110 1757353172
+!i10b 1
+!s100 =2gRJ4=HRJii?D`Cl9Wjk1
+IR0_kiLHdKAEXjM>cKTCZ70
+R2
+R0
+w1757353048
+R17
+R18
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1757353172.000000
+R19
+R20
+!i113 1
+R10
+vmux_4x1
+Z21 !s110 1757355726
+!i10b 1
+!s100 XRa_UCDl7C>]XSHC[[n^f2
+I16]Pf`<Y9]9JH8k?6=eFj0
+R2
+R0
+Z22 w1757348767
+Z23 8q9_8x1_using_4x1.v
+Z24 Fq9_8x1_using_4x1.v
+L0 3
+R6
+r1
+!s85 0
+31
+Z25 !s108 1757355726.000000
+Z26 !s107 q9_8x1_using_4x1.v|q9_tb.v|
+Z27 !s90 -reportprogress|300|q9_tb.v|
+!i113 1
+R10
+vmux_8x1
+!s110 1757350973
+!i10b 1
+!s100 QSR1496LO3ojQVhCZOkj:0
+IJzIM=3;0e<cdn9hYNj]U32
+R2
+R0
+w1757350964
+8q10_mux_8x1.v
+Fq10_mux_8x1.v
+L0 69
+R6
+r1
+!s85 0
+31
+!s108 1757350973.000000
+!s107 q10_mux_8x1.v|q10_tb.v|
+!s90 -reportprogress|300|q10_tb.v|
+!i113 1
+R10
+vmux_8x1_using_4x1
+R21
+!i10b 1
+!s100 6>TPHBED:Lno:MO?85ei?1
+IJ:VJjGg06=L8o6Y[@La[=2
+R2
+R0
+R22
+R23
+R24
+L0 9
+R6
+r1
+!s85 0
+31
+R25
+R26
+R27
+!i113 1
+R10
+vpriority_encoder
+Z28 !s110 1757567682
+!i10b 1
+!s100 :@L7a6O4F=dQXCTgcegD:2
+IznPhJiKKczh>9N3>N2m8:1
+R2
+R11
+Z29 w1757567670
+8pencoder.v
+Fpencoder.v
+L0 20
+R6
+r1
+!s85 0
+31
+Z30 !s108 1757567682.000000
+Z31 !s107 pencoder.v|encoder_tb.v|
+R12
+!i113 1
+R10
+vtop
+R28
+!i10b 1
+!s100 l0hAimeVEQ[V?D220[NJE2
+IN^]DCM_Gn4oGjg6JX;UH@1
+R2
+R11
+R29
+8encoder_tb.v
+Fencoder_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+R30
+R31
+R12
+!i113 1
+R10
