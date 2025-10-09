@@ -1,0 +1,146 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:31:38 on Sep 10,2025
+# vlog -reportprogress 300 tb.v 
+# -- Compiling module comparator
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 15:31:38 on Sep 10,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 15:31:38 on Sep 10,2025
+# Loading work.top
+# Loading work.comparator
+# a  b  lt  eq  gt
+# 0  0  0   1   0
+# 0  1  1   0   0
+# 0  1  1   0   0
+# 1  1  0   1   0
+# 0  1  1   0   0
+# 0  1  1   0   0
+# 0  1  1   0   0
+# 1  0  0   0   1
+# 0  1  1   0   0
+# 0  1  1   0   0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:32:23 on Sep 10,2025
+# vlog -reportprogress 300 tb.v 
+# -- Compiling module comparator
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 15:32:23 on Sep 10,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:32:23 on Sep 10,2025, Elapsed time: 0:00:45
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 15:32:24 on Sep 10,2025
+# Loading work.top
+# Loading work.comparator
+# a  b   lt  eq  gt
+# 0  0  0   1   0
+# 0  1  1   0   0
+# 0  1  1   0   0
+# 1  1  0   1   0
+# 0  1  1   0   0
+# 0  1  1   0   0
+# 0  1  1   0   0
+# 1  0  0   0   1
+# 0  1  1   0   0
+# 0  1  1   0   0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:32:40 on Sep 10,2025
+# vlog -reportprogress 300 tb.v 
+# -- Compiling module comparator
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 15:32:40 on Sep 10,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:32:41 on Sep 10,2025, Elapsed time: 0:00:17
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 15:32:41 on Sep 10,2025
+# Loading work.top
+# Loading work.comparator
+# a  b  lt  eq  gt
+# 0  0   0   1   0
+# 0  1   1   0   0
+# 0  1   1   0   0
+# 1  1   0   1   0
+# 0  1   1   0   0
+# 0  1   1   0   0
+# 0  1   1   0   0
+# 1  0   0   0   1
+# 0  1   1   0   0
+# 0  1   1   0   0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:37:21 on Sep 10,2025
+# vlog -reportprogress 300 tb.v 
+# -- Compiling module comparator
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 15:37:21 on Sep 10,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:37:22 on Sep 10,2025, Elapsed time: 0:04:41
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 15:37:22 on Sep 10,2025
+# Loading work.top
+# Loading work.comparator
+# a  b  lt  eq  gt
+# 0  0   0   1   0
+# 0  1   1   0   0
+# 0  1   1   0   0
+# 1  1   0   1   0
+# 0  1   1   0   0
+# 0  1   1   0   0
+# 0  1   1   0   0
+# 1  0   0   0   1
+# 0  1   1   0   0
+# 0  1   1   0   0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:40:13 on Sep 10,2025
+# vlog -reportprogress 300 tb.v 
+# -- Compiling module comparator
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 15:40:13 on Sep 10,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 15:40:14 on Sep 10,2025, Elapsed time: 0:02:52
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 15:40:14 on Sep 10,2025
+# Loading work.top
+# Loading work.comparator
+# a  b  lt  eq  gt
+# 0  0   0   1   0
+# 0  1   1   0   0
+# 0  1   1   0   0
+# 1  1   0   1   0
+# 0  1   1   0   0
+# 0  1   1   0   0
+# 0  1   1   0   0
+# 1  0   0   0   1
+# 0  1   1   0   0
+# 0  1   1   0   0
+quit -sim
+# End time: 16:12:59 on Sep 10,2025, Elapsed time: 0:32:45
+# Errors: 0, Warnings: 0

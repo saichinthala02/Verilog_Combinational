@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/VERILOG_ASSIGNMENT/ASSIGNMENT1/Question17
+vcomparator
+Z1 !s110 1757499013
+!i10b 1
+!s100 UfM6KJO95djDmVkb]?o[C3
+Iz_Sdi^@0D3F5IjZdnnYB=0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1757499009
+8comparator.v
+Fcomparator.v
+L0 30
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1757499013.000000
+Z5 !s107 comparator.v|tb.v|
+Z6 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 EoXQgHLlG^1^S4oo`X9D20
+IQO1L:]6cRal1;i4Hi;_QV3
+R2
+R0
+w1757498684
+8tb.v
+Ftb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
