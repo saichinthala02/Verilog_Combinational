@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/saich/OneDrive/Desktop/VERILOG_ASSIGNMENT/ASSIGNMENT1/Question18
+vcomparator_2bit
+Z0 !s110 1758453838
+!i10b 1
+!s100 B83QkmZF@B0^TH2^d0H;L1
+ILJjH3gJBSn2Dm2SV`hUE90
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/saich/OneDrive/Desktop/VERILOG_ASSIGNMENT/ASGN_1_Combinational_Logic/Question18_2Bit_Comparator
+w1757502595
+8comparator_2bit.v
+Fcomparator_2bit.v
+L0 28
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1758453838.000000
+Z5 !s107 comparator_2bit.v|tb.v|
+Z6 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R0
+!i10b 1
+!s100 =;71Ff5ePcbd9IOi2YhOB1
+I>KH6A>_6BfWo4[o:64CW<2
+R1
+R2
+w1757501328
+8tb.v
+Ftb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
