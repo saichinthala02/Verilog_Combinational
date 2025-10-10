@@ -1,0 +1,91 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/vlsi_vrilog/CodeConverters
+vb2BCD
+!s110 1757740357
+!i10b 1
+!s100 eS1fM80`P=Q1_kZ1:36D=0
+I0gkX7m@REAB1WEJJSNBJ>2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1757740353
+8b_2_bcd.v
+Fb_2_bcd.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1757740357.000000
+!s107 b_2_bcd.v|
+!s90 -reportprogress|300|b_2_bcd.v|
+!i113 1
+Z3 tCvgOpt 0
+nb2@b@c@d
+vb2ex3
+Z4 !s110 1757742189
+!i10b 1
+!s100 ^OXdOU>IJiDHlAI@3QS3Q3
+IzZI4lIZh7QZhz[^k]z9f:3
+R1
+R0
+Z5 w1757742182
+Z6 8binary_2_ex3.v
+Z7 Fbinary_2_ex3.v
+L0 2
+R2
+r1
+!s85 0
+31
+Z8 !s108 1757742189.000000
+Z9 !s107 binary_2_ex3.v|
+Z10 !s90 -reportprogress|300|binary_2_ex3.v|
+!i113 1
+R3
+vb2g
+!s110 1757701784
+!i10b 1
+!s100 kbI]fJe]RRbd=o;J2m?m_1
+Idc_hceT=Il7I[n1kcG[PM0
+R1
+R0
+w1757701781
+8g2b.v
+Fg2b.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1757701784.000000
+!s107 g2b.v|
+!s90 -reportprogress|300|g2b.v|
+!i113 1
+R3
+vtop
+R4
+!i10b 1
+!s100 a<0`mfGN0kAUH9>K1^YMQ1
+I[MQXN6<`ZYPl;Ykk]T5cN0
+R1
+R0
+R5
+R6
+R7
+L0 20
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R3

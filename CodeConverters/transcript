@@ -1,0 +1,112 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:08:11 on Sep 13,2025
+# vlog -reportprogress 300 binary_2_ex3.v 
+# -- Compiling module b2ex3
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 11:08:11 on Sep 13,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 11:08:11 on Sep 13,2025
+# Loading work.top
+# Loading work.b2ex3
+# --------------------
+# Binary ---> Excess-3
+# --------------------
+#  0100 ------> 00111
+#  0001 ------> 00100
+#  1001 ------> 01100
+#  0011 ------> 00110
+#  1101 ------> 0xxxx
+#  1101 ------> 0xxxx
+#  0101 ------> 01000
+#  0010 ------> 00101
+#  0001 ------> 00100
+#  1101 ------> 0xxxx
+# --------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:09:37 on Sep 13,2025
+# vlog -reportprogress 300 binary_2_ex3.v 
+# -- Compiling module b2ex3
+# ** Error: (vlog-13069) binary_2_ex3.v(16): near "end": syntax error, unexpected end.
+# ** Error: binary_2_ex3.v(22): Port mode is incompatible with declaration: b
+# End time: 11:09:37 on Sep 13,2025, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog binary_2_ex3.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:09:52 on Sep 13,2025
+# vlog -reportprogress 300 binary_2_ex3.v 
+# -- Compiling module b2ex3
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 11:09:52 on Sep 13,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 11:09:53 on Sep 13,2025, Elapsed time: 0:01:42
+# Errors: 5, Warnings: 0
+# vsim top 
+# Start time: 11:09:53 on Sep 13,2025
+# Loading work.top
+# Loading work.b2ex3
+# --------------------
+# Binary ---> Excess-3
+# --------------------
+#  0100 ------> 00111
+#  0001 ------> 00100
+#  1001 ------> 01100
+#  0011 ------> 00110
+#  1101 ------> 11000
+#  1101 ------> 11000
+#  0101 ------> 01000
+#  0010 ------> 00101
+#  0001 ------> 00100
+#  1101 ------> 11000
+# --------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 11:13:09 on Sep 13,2025
+# vlog -reportprogress 300 binary_2_ex3.v 
+# -- Compiling module b2ex3
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 11:13:09 on Sep 13,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 11:13:10 on Sep 13,2025, Elapsed time: 0:03:17
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 11:13:10 on Sep 13,2025
+# Loading work.top
+# Loading work.b2ex3
+# --------------------
+# Binary ---> Excess-3
+# --------------------
+#  0100 ------> 0111
+#  0001 ------> 0100
+#  1001 ------> 1100
+#  0011 ------> 0110
+#  1101 ------> xxxx
+#  1101 ------> xxxx
+#  0101 ------> 1000
+#  0010 ------> 0101
+#  0001 ------> 0100
+#  1101 ------> xxxx
+# --------------------
+# End time: 11:13:17 on Sep 13,2025, Elapsed time: 0:00:07
+# Errors: 0, Warnings: 0
