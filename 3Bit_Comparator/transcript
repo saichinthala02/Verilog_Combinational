@@ -1,0 +1,208 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:41:12 on Sep 11,2025
+# vlog -reportprogress 300 comparator_3using1.v 
+# -- Compiling module comparator_1bit
+# ** Error: (vlog-13069) comparator_3using1.v(8): near "=": syntax error, unexpected '='.
+# ** Error: comparator_3using1.v(8): (vlog-13205) Syntax error found in the scope following 'lt'. Is there a missing '::'?
+# End time: 16:41:12 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog comparator_3using1.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:42:15 on Sep 11,2025
+# vlog -reportprogress 300 comparator_3using1.v 
+# -- Compiling module comparator_1bit
+# -- Compiling module comparator_bit3
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 16:42:15 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 16:42:15 on Sep 11,2025
+# Loading work.top
+# Loading work.comparator_bit3
+# ** Error: (vsim-3037) comparator_3using1.v(18): Missing instance name in instantiation of 'comparator_1bit'.
+#    Time: 0 ps  Iteration: 0  Instance: /top/dut File: comparator_3using1.v
+# ** Error: (vsim-3037) comparator_3using1.v(19): Missing instance name in instantiation of 'comparator_1bit'.
+#    Time: 0 ps  Iteration: 0  Instance: /top/dut File: comparator_3using1.v
+# ** Error: (vsim-3037) comparator_3using1.v(20): Missing instance name in instantiation of 'comparator_1bit'.
+#    Time: 0 ps  Iteration: 0  Instance: /top/dut File: comparator_3using1.v
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:42:42 on Sep 11,2025
+# vlog -reportprogress 300 comparator_3using1.v 
+# -- Compiling module comparator_1bit
+# -- Compiling module comparator_bit3
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 16:42:42 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 16:42:15 on Sep 11,2025
+# Loading work.top
+# Loading work.comparator_bit3
+# Loading work.comparator_1bit
+#  a     b    lt    eq     gt
+# 100   100    0    1      0
+# 000   001    1    0      0
+# 001   001    0    1      0
+# 100   011    0    0      1
+# 001   101    1    0      0
+# 001   101    1    0      0
+# 100   101    1    0      0
+# 010   010    0    1      0
+# 000   001    1    0      0
+# 001   101    1    0      0
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:44:46 on Sep 11,2025
+# vlog -reportprogress 300 comparator_3using1.v 
+# -- Compiling module comparator_1bit
+# -- Compiling module comparator_bit3
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 16:44:46 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:44:47 on Sep 11,2025, Elapsed time: 0:02:32
+# Errors: 3, Warnings: 0
+# vsim top 
+# Start time: 16:44:47 on Sep 11,2025
+# Loading work.top
+# Loading work.comparator_bit3
+# Loading work.comparator_1bit
+# ----------------------------
+#  a     b    lt    eq     gt
+# 001   011    1    0      0
+# 010   000    0    0      1
+# 100   011    0    0      1
+# 101   111    1    0      0
+# 100   000    0    0      1
+# 100   101    1    0      0
+# 110   111    1    0      0
+# 111   010    0    0      1
+# 000   011    1    0      0
+# 111   100    0    0      1
+# ----------------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:45:14 on Sep 11,2025
+# vlog -reportprogress 300 comparator_3using1.v 
+# -- Compiling module comparator_1bit
+# -- Compiling module comparator_bit3
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 16:45:14 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:45:15 on Sep 11,2025, Elapsed time: 0:00:28
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 16:45:16 on Sep 11,2025
+# Loading work.top
+# Loading work.comparator_bit3
+# Loading work.comparator_1bit
+# ----------------------------
+#  a     b    lt    eq     gt
+# 001   011    1    0      0
+# 101   110    1    0      0
+# 101   011    0    0      1
+# 011   001    0    0      1
+# 010   111    1    0      0
+# 000   000    0    1      0
+# 111   101    0    0      1
+# 000   100    1    0      0
+# 000   011    1    0      0
+# 001   111    1    0      0
+# ----------------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:45:35 on Sep 11,2025
+# vlog -reportprogress 300 comparator_3using1.v 
+# -- Compiling module comparator_1bit
+# -- Compiling module comparator_bit3
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 16:45:35 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:45:37 on Sep 11,2025, Elapsed time: 0:00:21
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 16:45:37 on Sep 11,2025
+# Loading work.top
+# Loading work.comparator_bit3
+# Loading work.comparator_1bit
+# ----------------------------
+#  a     b    lt    eq     gt
+# 010   011    1    0      0
+# 100   001    0    0      1
+# 011   001    0    0      1
+# 100   101    1    0      0
+# 100   100    0    1      0
+# 101   101    0    1      0
+# 010   100    1    0      0
+# 100   001    0    0      1
+# 000   100    1    0      0
+# 111   011    0    0      1
+# ----------------------------
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:46:35 on Sep 11,2025
+# vlog -reportprogress 300 comparator_3using1.v 
+# -- Compiling module comparator_1bit
+# -- Compiling module comparator_bit3
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 16:46:35 on Sep 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:46:36 on Sep 11,2025, Elapsed time: 0:00:59
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 16:46:36 on Sep 11,2025
+# Loading work.top
+# Loading work.comparator_bit3
+# Loading work.comparator_1bit
+# ---------------------------
+#  a     b    lt    eq     gt
+# ---------------------------
+# 010   011    1    0      0
+# 100   001    0    0      1
+# 011   001    0    0      1
+# 100   101    1    0      0
+# 100   100    0    1      0
+# 101   101    0    1      0
+# 010   100    1    0      0
+# 100   001    0    0      1
+# 000   100    1    0      0
+# 111   011    0    0      1
+# ---------------------------
+run -continue
+# End time: 17:56:57 on Sep 11,2025, Elapsed time: 1:10:21
+# Errors: 0, Warnings: 0

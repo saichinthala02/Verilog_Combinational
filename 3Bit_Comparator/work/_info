@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/VERILOG_ASSIGNMENT/ASSIGNMENT1/Question19
+vcomparator_1bit
+Z1 !s110 1757589395
+!i10b 1
+!s100 0[Z0DKRz<QZ^::JY]419l3
+I9P=b90OK`m2`;[ZE`[T>E2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1757589392
+Z4 8comparator_3using1.v
+Z5 Fcomparator_3using1.v
+L0 4
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1757589395.000000
+Z8 !s107 comparator_3using1.v|
+Z9 !s90 -reportprogress|300|comparator_3using1.v|
+!i113 1
+Z10 tCvgOpt 0
+vcomparator_3bit
+!s110 1757526298
+!i10b 1
+!s100 AVRBJn:6O<384[T:HAl>b1
+IXE183Qzeh`E>[2<bY292a2
+R2
+R0
+w1757526295
+8comparator_3bit.v
+Fcomparator_3bit.v
+L0 30
+R6
+r1
+!s85 0
+31
+!s108 1757526297.000000
+!s107 comparator_3bit.v|tb_3bit_comp.v|
+!s90 -reportprogress|300|tb_3bit_comp.v|
+!i113 1
+R10
+vcomparator_bit3
+R1
+!i10b 1
+!s100 9Ma]X3MSe_nE?>IoH1Mg^3
+II[P=BBJ[TTPOERN`O0FH>3
+R2
+R0
+R3
+R4
+R5
+L0 14
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vtop
+R1
+!i10b 1
+!s100 IRW]?eG366z^Bk4m`XXCV0
+I2fTCa1BG2h`<21cB0`QM81
+R2
+R0
+R3
+R4
+R5
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
