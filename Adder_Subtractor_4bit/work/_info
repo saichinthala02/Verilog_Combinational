@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/vlsi_vrilog/Class_Practice/Adder_Subtractor_4bit
+vadd_sub
+Z1 !s110 1759595809
+!i10b 1
+!s100 1VW4[0GE80kO?AakYzc?o0
+I3d1S_Z6<hB`bG9IA^]2kb1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1759595768
+Z4 8add_sub_4bit.v
+Z5 Fadd_sub_4bit.v
+L0 8
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1759595809.000000
+Z8 !s107 add_sub_4bit.v|tb.v|
+Z9 !s90 -reportprogress|300|tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vfa
+R1
+!i10b 1
+!s100 =AP9ej@DJ]BlM9Z4^40oR0
+IJI1>n5464I9nLJFZ5b0460
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vtop
+R1
+!i10b 1
+!s100 Re;4Icfeb9W4=7=`6`=@X3
+IgW9eh31AI@G>]E^DLzfAG1
+R2
+R0
+R3
+8tb.v
+Ftb.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

@@ -1,0 +1,30 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:06:49 on Oct 04,2025
+# vlog -reportprogress 300 tb.v 
+# -- Compiling module fa
+# -- Compiling module add_sub
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 22:06:49 on Oct 04,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 22:06:50 on Oct 04,2025
+# Loading work.top
+# Loading work.add_sub
+# Loading work.fa
+# a=1001 b=0010 c=0 | Sum=1011 Carry=0
+# a=0100 b=0000 c=1 | Sum=0100 Carry=1
+# a=0000 b=0100 c=1 | Sum=1100 Carry=0
+# a=0011 b=0001 c=1 | Sum=0010 Carry=1
+# a=1000 b=0110 c=1 | Sum=0010 Carry=1
+# a=1100 b=0110 c=1 | Sum=0110 Carry=1
+# a=0011 b=0010 c=1 | Sum=0001 Carry=1
+# a=0000 b=1001 c=0 | Sum=1001 Carry=0
+# a=1000 b=0000 c=1 | Sum=1000 Carry=1
+# a=1000 b=0110 c=1 | Sum=0010 Carry=1
+# End time: 22:07:13 on Oct 04,2025, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 0
